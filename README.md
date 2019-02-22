@@ -1,2 +1,3 @@
 # dalgona
-d-algo-na
+- d-algo-na
+- DNA Algorithm
